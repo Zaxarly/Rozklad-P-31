@@ -1,0 +1,7 @@
+.days-of-week{
+    border: none; 
+    background-color: rgb(187, 187, 187);
+}
+.days-of-week p{
+    transform: rotate(-90deg);
+}
